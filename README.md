@@ -3,7 +3,7 @@
   
   .
 
-  [cmengler](https://github.com/cmengler/fitbit-app-versa4/)
+  [cmengler](https://github.com/cmengler/) -- Available [Here](https://github.com/cmengler/fitbit-app-versa4/)
   
   .
 
