@@ -1,5 +1,5 @@
   <sub>
-  software stack based on the fitbit app demo by 
+  software stack based on the fitbit Sense 2 / Versa 4 app demo by 
   
   .
 
