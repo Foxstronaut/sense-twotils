@@ -17,25 +17,38 @@
   ---
   # My Personal Links and Such for Keeping On My Fitbit Sense 2
 
-  install dependencies (defined in [package.json](/package.json)):
+- [Installation](#installation)
 
-   ``` yarn install ```
+- [Description](#why)
   
-  then:
-  
-  ``` cd app/ ```
 
-  run util:
+## Why???
 
-  ``` yarn debug ```
+**-Still in progress-**
 
-  **Start *"Developer Bridge"*** in Fitbit Settings and **Connect Fitbit over USB.**
+## Installation
 
-  then:
-  ``` connect phone ``` & ``` connect device ```
+<sub> (not a full guide... see [here](https://github.com/cmengler/fitbit-app-versa4/) for more details) </sub>
 
-  to build and install:
+install dependencies (defined in [package.json](/package.json)):
 
-  ``` build-and-install ```
+  ``` yarn install ```
 
-  more details in the [FitBit Dev Docs.](https://dev.fitbit.com/)
+then:
+
+``` cd app/ ```
+
+run util:
+
+``` yarn debug ```
+
+**Start *"Developer Bridge"*** in Fitbit Settings and **Connect Fitbit over USB.**
+
+then:
+``` connect phone ``` & ``` connect device ```
+
+to build and install:
+
+``` build-and-install ```
+
+more details in the [FitBit Dev Docs.](https://dev.fitbit.com/)
