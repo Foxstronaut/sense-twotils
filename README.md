@@ -7,7 +7,7 @@
   
   .
 
-  Licensed under the Apache 2.0 
+  Licensed under the Apache 2.0 and MIT License
   
   .
 
