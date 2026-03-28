@@ -1,3 +1,7 @@
-<svg class="background">
-  <text id="demotext" x="50%" y="50%+15">Hello World!</text>
+<svg>
+  <rect id="background" pointer-events="all" x="0" y="0" width="100%" height="100%" fill="black" />
+
+  <textarea id="text-display" x="15" y="15" width="100%-30" height="100%-30"
+    fill="magenta" font-family="System-Regular" font-size="26" 
+    text-overflow="wrap" text-length="2000" pointer-events="all" />
 </svg>
