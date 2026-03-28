@@ -1,8 +1,12 @@
   <sub>
-  software stack based on the fitbit app demo by [cmengler](https://github.com/cmengler/fitbit-app-versa4/)
-  </sub>
+  software stack based on the fitbit app demo by 
+  
+  .
 
-  <sub>
+  [cmengler](https://github.com/cmengler/fitbit-app-versa4/)
+  
+  .
+  
   Licensed under the Apache 2.0 
   
   .
